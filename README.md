@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alba Gigi De Simas.
+- 👋 Hi, I’m @Alba "Gigi" De Simas.
 - 👀 I’m interested in DATA ANALYSIS. 
 - 🌱 I’m currently learning: Big Data e Inteligência Analítica (Universidade São Judas Tadeu) + Data Analytics (Bootcamp WoMakersCode) + TI em Banco de Dados (Centro Universitário SENAC SP).
 - 💞️ I’m looking to collaborate on exciting data analysis projects and contribute to the tech community.
