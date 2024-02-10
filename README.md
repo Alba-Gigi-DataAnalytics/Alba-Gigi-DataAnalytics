@@ -6,6 +6,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have an insatiable curiosity for all things tech-related. Whether it's diving into the latest technologies, mastering new programming languages,
                 or immersing myself in fascinating biographies, I thrive on the excitement of continuous learning! 📚💻✨
+- 👀 "It's up to you to develop your career to the level you want!"
+  
 
 <!---
 Alba-Gigi-DataAnalytics/Alba-Gigi-DataAnalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
