@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting data analysis projects and contribute to the tech community.
 - 📫 How to reach me: https://www.linkedin.com/in/alba-regina-de-simas/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have an insatiable curiosity for all things tech-related. Whether it's diving into the latest technologies, mastering new programming languages,
+- ⚡ Fun fact: I have an insatiable curiosity for all things about neuroscience, cells, and science stuff. Whether it's diving into the latest technologies, mastering new programming languages,
                 or immersing myself in fascinating biographies, I thrive on the excitement of continuous learning! 📚💻✨
 - 👀 "It's up to you to develop your career to the level you want!"
   
